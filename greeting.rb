@@ -3,3 +3,5 @@ def greeting
 end
 
 greeting ("clint")
+greeting ("Hallie")
+greeting ("Ez")
